@@ -50,12 +50,12 @@ $language = array(
 	'report_comment_invalid' => 'Ongeldig commentaar inhoud. Graag een commentaar invoeren tussen de 1 en 10000 karakters.',
 	'close_report' => 'Sluit rapport',
 	'reopen_report' => 'Heropen rapport',
-	'1_open_report' => 'There is currently <strong>1</strong> open report.',
-	'open_reports' => 'Er zijn nu <strong>{x}</strong> open rapporten.', // Verander {x} niet
-	'no_open_reports' => 'There are currently no open reports.',
-	'no_closed_reports' => 'There are currently no closed reports.',
-	'recent_reports' => 'Recent Reports',
-	'reported_by' => 'Reported by:',
+	'1_open_report' => 'Er is momenteel <strong>1</strong> open rapport.',
+	'open_reports' => 'Er zijn momenteel <strong>{x}</strong> open rapporten.', // Verander {x} niet
+	'no_open_reports' => 'Er zijn momenteel geen open rapporten.',
+	'no_closed_reports' => 'Er zijn momenteel geen gesloten rapporten.',
+	'recent_reports' => 'Recente rapporten',
+	'reported_by' => 'Gerapporteerd door:',
 	'website' => 'Website',
 	'ingame' => 'Ingame',
 	'x_closed_report' => '{x} closed this report.', // Don't replace {x} (username)
@@ -98,13 +98,13 @@ $language = array(
    	'when' => 'Wanneer',
    	'staff' => 'Staff',
     'type' => 'Type',
-    'recent_punishments' => 'Recent Punishments',
+    'recent_punishments' => 'Recente straffen',
     'created' => 'Created:',
     'staff:' => 'Staff:',
     'reason:' => 'Reason:',
 	
     // Users
-    'recent_registrations' => 'Recent Registrations',
+    'recent_registrations' => 'Recente registraties',
 	'reset_profile_banner' => 'Reset Profile Banner'
 
 );
