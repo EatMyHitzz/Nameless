@@ -66,10 +66,9 @@ $language = array(
 	'email_already_exists' => 'The email address you have entered already exists.',
 	'email_changed_successfully' => 'Email address changed successfully.',
 	'avatar' => 'Avatar',
-	'profile_banner' => 'Profile Banner',
-	'upload_profile_banner' => 'Upload Profile Banner',
+	'profile_banner' => 'Profiel banner',
+	'upload_profile_banner' => 'Upload profiel banner',
 	'upload' => 'Upload',
-	'topic_updates' => 'Get emails for topics you follow',
 	
 	// Meldingen
 	'user_tag_info' => 'Je bent genoemd in een bericht door {x}.', // Verander {x} niet
@@ -219,7 +218,7 @@ $language = array(
 	'leave_conversation' => 'Verlaat gesprek',
 	'confirm_leave' => 'Weet je zeker dat je dit gesprek wilt verlaten?',
 	'one_or_more_users_blocked' => 'Je kan geen privé bericht sturen naar een of meerdere leden van het gesprek.',
-	'messages' => 'Messages',
+	'messages' => 'Berichten',
 	
 	/*
 	 *  Overtredingen gebied
@@ -227,6 +226,15 @@ $language = array(
 	'you_have_been_banned' => 'Je bent verbannen!',
 	'you_have_received_a_warning' => 'Je hebt een waarschuwing gekregen!',
 	'acknowledge' => 'Begrepen',
+	
+	
+	/*
+	 *  Emails
+	 */
+	'email_greeting' => 'Hoi,',
+	'email_message' => 'Bedankt voor het registreren op onze website! Om je registratie te voltooien, klik je op deze link: ',
+	'forgot_password_email_message' => 'Om je wachtwoord te herstellen, klik op de volgende link. Als je dit niet hebt aangevraagd, kan je deze email negeren.',
+	'email_thanks' => 'Nogmaals bedankt,',
 
 	/*
 	 *  Hooks
